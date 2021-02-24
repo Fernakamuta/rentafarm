@@ -1,0 +1,12 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#map select {
+    margin: 10px 0;
+}
+
+#map #mapid {
+    width: 100%;
+    height: 100%;
+}
